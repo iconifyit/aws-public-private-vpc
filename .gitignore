@@ -149,3 +149,4 @@ dist
 scratch*
 scratch-*
 *.scratchcdk.context.json
+lib/names.js
